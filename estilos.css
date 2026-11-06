@@ -1,0 +1,52 @@
+body {
+    background-color: #D6C1A7;
+    color: #302820;
+}
+
+h1 {
+    color: #345779;
+    font-family: Arial;
+}
+
+h2 {
+    color: #583B2B;
+    font-family: Arial;
+}
+
+h3 {
+    color: #345779;
+    font-family: Arial;
+}
+
+.destaque {
+    background-color: #EDE3D5;
+    margin: 10px;
+    padding: 10px;
+}
+
+table {
+    background-color: #EDE3D5;
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+th, td {
+    border: 1px solid #583B2B;
+    padding: 10px;
+}
+
+th {
+    color: #583B2B;
+}
+
+
+/*
+1. Desafio técnico:
+A maior dificuldade que tive foi tentar colocar uma imagem como fundo da página. A imagem ficava demasiado ampliada e dificultava a leitura do texto. Experimentei de várias maneiras, mas acabei por optar por uma cor de fundo, que ficou melhor.
+
+2. Correção de sintaxe:
+Um dos erros que tive foi na ligação do ficheiro CSS ao HTML. Escrevi o nome do ficheiro de forma diferente e, por isso, as alterações não apareciam no navegador. Depois de corrigir o nome, o CSS começou a funcionar.
+
+3. Autoria:
+O atributo href serve para indicar o destino de uma hiperligação. Usei-o no índice para permitir que, ao clicar numa secção, a página vá diretamente para essa parte. Também o utilizei para criar uma ligação para o IMDb.
+*/
